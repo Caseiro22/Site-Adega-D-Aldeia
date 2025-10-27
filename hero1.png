@@ -1,1 +1,4 @@
+git rm caminho/para/hero1.png
+git commit -m "remover imagem"
+git push
 
